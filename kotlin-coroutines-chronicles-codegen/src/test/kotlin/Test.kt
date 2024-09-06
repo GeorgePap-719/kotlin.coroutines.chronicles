@@ -1,3 +1,3 @@
-package kotlin.coroutines.chronicles.codegen
+package coroutines.chronicles.codegen
 
 class Test
