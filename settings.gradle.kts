@@ -14,3 +14,4 @@ fun module(name: String, path: String) {
 }
 
 module(":kotlin-coroutines-chronicles-codegen", "kotlin-coroutines-chronicles-codegen")
+module(":kotlin-concurrent", "kotlin-concurrent")

@@ -1,4 +1,6 @@
-package coroutines.chronicles.codegen
+package coroutines.chronicles.codegen.exp
+
+import coroutines.chronicles.codegen.User
 
 interface Continuation<T> {
   fun await(resumer: Resumer<T>)
